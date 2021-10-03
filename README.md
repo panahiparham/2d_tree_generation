@@ -14,4 +14,12 @@ simplified implementation of space colonization algorithm for tree generation
   </ul>
   
 
+<em> Please refer to Space_Colonization.ipynb for the implementation and some sample runs.</em>
+
+Here are some 2D tree models generated with this algorithm
  
+![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/1.png?raw=true)
+![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/2.png?raw=true)
+![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/3.png?raw=true)
+![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/4.png?raw=true)
+![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/5.png?raw=true)
