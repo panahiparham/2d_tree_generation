@@ -23,3 +23,6 @@ Here are some 2D tree models generated with this algorithm
 ![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/3.png?raw=true)
 ![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/4.png?raw=true)
 ![](https://github.com/panahiparham/2d_tree_generation/blob/main/assets/5.png?raw=true)
+
+
+<em> There is currently no implementation for the "node decimation", or "Voronoi diagrams", which are mentioned in the source paper. </em>
